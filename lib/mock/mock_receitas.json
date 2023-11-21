@@ -1,0 +1,78 @@
+{
+  "receitas": [
+    {
+      "tituloReceita": "Lasanha de Carne",
+      "ingredientes": [
+        "500g de peito de Carne",
+        "1 pacote de massa para lasanha",
+        "200g de queijo mussarela",
+        "200g de queijo parmesão ralado",
+        "Molho de tomate",
+        "Sal e pimenta a gosto"
+      ],
+      "modoPreparo": "Cozinhe o Carne e desfie. Em um refratário, faça camadas de massa, Carne desfiado, queijo e molho de tomate. Repita as camadas até terminar os ingredientes. Cubra com queijo parmesão ralado e leve ao forno pré-aquecido a 180°C por 30 minutos. Sirva quente.",
+      "dificuldade": "Média",
+      "chef": "Maria Silva",
+      "foto": "lasanha.jpg"
+    },
+    {
+      "tituloReceita": "Salada Caesar",
+      "ingredientes": [
+        "Alface romana",
+        "Croutons",
+        "Peito de Carne grelhado",
+        "Queijo parmesão ralado",
+        "Molho Caesar"
+      ],
+      "modoPreparo": "Lave e rasgue as folhas de alface. Acrescente os croutons, o Carne grelhado cortado em tiras e o queijo parmesão ralado. Regue com o molho Caesar e misture bem antes de servir.",
+      "dificuldade": "Fácil",
+      "chef": "João Oliveira",
+      "foto": "salada_caesar.jpg"
+    },
+    {
+      "tituloReceita": "Risoto de Cogumelos",
+      "ingredientes": [
+        "Arroz para risoto",
+        "Cogumelos variados (shimeji, shiitake, champignon)",
+        "Cebola picada",
+        "Caldo de legumes",
+        "Vinho branco",
+        "Manteiga",
+        "Queijo parmesão ralado"
+      ],
+      "modoPreparo": "Refogue a cebola em um pouco de manteiga, adicione os cogumelos e o arroz. Acrescente o vinho branco e, em seguida, vá adicionando o caldo de legumes aos poucos, mexendo até que o arroz esteja cozido e o risoto esteja cremoso. Finalize com queijo parmesão ralado.",
+      "dificuldade": "Média",
+      "chef": "Carlos Santos",
+      "foto": "risoto_cogumelos.jpg"
+    },
+    {
+      "tituloReceita": "Salmão Grelhado",
+      "ingredientes": [
+        "Filé de salmão",
+        "Azeite de oliva",
+        "Sal e pimenta a gosto",
+        "Limão",
+        "Ervas frescas (tomilho, alecrim, manjericão)"
+      ],
+      "modoPreparo": "Tempere o filé de salmão com sal, pimenta, azeite, suco de limão e as ervas frescas. Grelhe o salmão em fogo médio-alto por alguns minutos de cada lado até que esteja cozido. Sirva com rodelas de limão.",
+      "dificuldade": "Fácil",
+      "chef": "Ana Rodrigues",
+      "foto": "salmao_grelhado.jpg"
+    },
+    {
+      "tituloReceita": "Torta de Maçã",
+      "ingredientes": [
+        "Massa de torta",
+        "Maçãs descascadas e fatiadas",
+        "Açúcar",
+        "Canela em pó",
+        "Manteiga",
+        "Farinha de trigo"
+      ],
+      "modoPreparo": "Forre uma forma com a massa de torta. Misture as maçãs fatiadas com açúcar e canela e coloque sobre a massa. Cubra com pequenos pedaços de manteiga e polvilhe um pouco de farinha de trigo. Asse em forno pré-aquecido a 180°C por 30-40 minutos, ou até que a torta esteja dourada e as maçãs estejam macias.",
+      "dificuldade": "Média",
+      "chef": "Luisa Fernandes",
+      "foto": "torta_macas.jpg"
+    }
+  ]
+}
